@@ -1,0 +1,25 @@
+{
+    "outputs": [
+        {
+            "id": "07300d64c3d0c0722aee7858f2cd7fda",
+            "metadata": {
+                "name": "DP-2"
+            },
+            "rgbrange": 0
+        },
+        {
+            "id": "4a3737a95f613352dfaef7327fa5f784",
+            "metadata": {
+                "name": "HDMI-A-2"
+            },
+            "rgbrange": 1
+        },
+        {
+            "id": "5720e327a55013afc27b6464a3857eb8",
+            "metadata": {
+                "name": "HDMI-A-1"
+            },
+            "rgbrange": 1
+        }
+    ]
+}

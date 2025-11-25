@@ -1,0 +1,17 @@
+[Annotations]
+annotationToolType=5
+textFontColor=255,0,0
+
+[General]
+launchAction=TakeFullscreenScreenshot
+
+[GuiConfig]
+captureMode=0
+quitAfterSaveCopyExport=true
+
+[ImageSave]
+lastImageSaveLocation=file:///home/xero/Pictures/Screenshots/Screenshot_20250721_132220.png
+translatedScreenshotsFolder=Screenshots
+
+[VideoSave]
+translatedScreencastsFolder=Screencasts

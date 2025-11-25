@@ -1,0 +1,8 @@
+[Context]
+devices=all;
+features=devel;multiarch;canbus;per-app-dev-shm;
+filesystems=host-os;host-etc;xdg-config/gtk-3.0;xdg-config/gtk-4.0;
+sockets=ssh-auth;pcsc;cups;session-bus;system-bus;
+
+[Environment]
+OZONE_PLATFORM_HINT=x11

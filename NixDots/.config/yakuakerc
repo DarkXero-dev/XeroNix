@@ -1,0 +1,16 @@
+[Appearance]
+BackgroundColorOpacity=60
+HideSkinBorders=true
+Translucency=true
+
+[Desktop Entry]
+DefaultProfile=
+
+[Dialogs]
+FirstRun=false
+
+[Window]
+Height=53
+KeepOpen=false
+ShowTabBar=false
+Width=70

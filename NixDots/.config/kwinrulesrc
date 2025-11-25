@@ -1,0 +1,38 @@
+[2bb30060-a71c-4c09-a8be-86725f78bcb0]
+Description=Application settings for org.kde.dolphin
+position=4480,594
+positionrule=4
+wmclass=dolphin org.kde.dolphin
+wmclasscomplete=true
+wmclassmatch=1
+
+[946abeb3-2615-4470-8386-3462ce674421]
+Description=Application settings for Uget-gtk
+clientmachine=localhost
+position=3410,724
+positionrule=4
+size=1026,654
+sizerule=2
+wmclass=uget-gtk Uget-gtk
+wmclasscomplete=true
+wmclassmatch=1
+
+[General]
+count=4
+rules=b2f05a96-8aa9-4025-9d4b-a0fdb78280ac,2bb30060-a71c-4c09-a8be-86725f78bcb0,946abeb3-2615-4470-8386-3462ce674421,fb16390e-9e22-481a-87c5-900ea202d7cd
+
+[b2f05a96-8aa9-4025-9d4b-a0fdb78280ac]
+Description=Application settings for .virt-manager-wrapped
+position=3409,721
+positionrule=4
+wmclass=python3.13 .virt-manager-wrapped
+wmclasscomplete=true
+wmclassmatch=1
+
+[fb16390e-9e22-481a-87c5-900ea202d7cd]
+Description=Application settings for org.kde.konsole
+position=3410,60
+positionrule=4
+wmclass=konsole org.kde.konsole
+wmclasscomplete=true
+wmclassmatch=1
